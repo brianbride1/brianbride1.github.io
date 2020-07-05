@@ -23,7 +23,9 @@
 
     style {
         font-family: Arial, Helvetica, sans-serif;
-        background: url("paylocity_background.jpg") repeat;
-    
+        
+        background-image: url("paylocity_background.jpg");
+        background-repeat: no-repeat;
+        background-position: center;
     } 
 
