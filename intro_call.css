@@ -11,12 +11,14 @@
         list-style:none;
         text-decoration: none;
         background-color: cyan;
-        border: 1px darkgoldenrod;
+        border: 1px darkgoldenrod solid;
         color: black;
         display: block;
         width: 200px;
         text-align: center;
-        margin-bottom: 2px;
+        margin: 10px;
+        padding: 10px;
+        
     }
 
     style {
