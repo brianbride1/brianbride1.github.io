@@ -38,7 +38,21 @@ Zoom level for cell phone
         position: relative;
     }
 
-    
+    .menu {
+        z-index: 9001;
+        position: relative;
+        box-sizing: border-box;
+        font-family: "Open Sans", Helvetica, Arial, sans-serif;
+        background: #EAEAEA;
+        color: #222222;
+        cursor: default;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 1;
+        margin: 0;
+        padding: 0;
+    }
 
 
     .highlight_IC_Speaks {
