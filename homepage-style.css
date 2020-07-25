@@ -64,6 +64,7 @@
     align-items: center;
     -ms-flex-pack: justify;
     justify-content: space-between;
+    background-color: #FF6611;
   }
   
   .navbar-brand {
@@ -88,7 +89,6 @@
     padding-left: 0;
     margin-bottom: 0;
     list-style: none;
-    background-color: #FF6611;
   }
   
   .navbar-nav .nav-link {
