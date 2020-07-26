@@ -56,6 +56,11 @@ a:visited {
     }
 
 
+.jumbotron {
+    width: 538px;
+}
+
+
     /*navbar from bootstrap.css*/
     
 .navbar {
