@@ -80,7 +80,7 @@
     margin-right: 1rem;
     font-size: 1.25rem;
     line-height: inherit;
-    white-space: nowrap;
+    background-color: #FF6611;
   }
   
   .navbar-brand:hover, .navbar-brand:focus {
