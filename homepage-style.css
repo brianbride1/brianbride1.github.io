@@ -1,6 +1,14 @@
 
 
-#link {
+a:link {
+    color: black;
+}
+
+a:active {
+    color:black;
+}
+
+a:visited {
     color: black;
 }
 
