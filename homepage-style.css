@@ -1,8 +1,13 @@
 
-.html{
-    background-color: aquamarine;
+
+   html {
+   background-color: aquamarine;
 }
 
+    #header-nav{
+        background-color: #ff6611;
+
+    }
     .pcty-button {
         background-color: #FF6611;
         border: 1px solid #FF6611;
