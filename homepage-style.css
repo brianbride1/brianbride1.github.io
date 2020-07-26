@@ -1,6 +1,8 @@
-<style>
-    background-color: #D3D3D3;
-</style>
+
+
+#link {
+    color: black;
+}
 
 #header-nav {
         background-color: #FF6611;
@@ -60,8 +62,6 @@
     justify-content: space-between;
     padding: 0.5rem 1rem;
     background-color: #FF6611;
-    text-size-adjust: 2em;
-    
   }
   
   .navbar .container,
