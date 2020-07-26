@@ -57,6 +57,8 @@
     justify-content: space-between;
     padding: 0.5rem 1rem;
     background-color: #FF6611;
+    text-size-adjust: 2em;
+    
   }
   
   .navbar .container,
